@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app-nac-02</string>
+    <string name="hamburgao_da_tia">Hamburgao da tia</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="quinzao">R$15,00</string>
+    <string name="comprar">Comprar</string>
+    <string name="hamburgao_do_tio">hamburgao do tio</string>
+    <string name="hamburgao_do_avo">hamburgao do avo</string>
+    <string name="lanche_muito_bom_recomendo_pacas">Lanche muito bom, recomendo pacas!</string>
+</resources>
