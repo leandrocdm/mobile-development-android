@@ -6,4 +6,8 @@
     <string name="login">Login</string>
     <string name="logout">logout</string>
     <string name="login_invalido">Login invalido!</string>
+    <string name="salvar_arquivo">salvar arquivo</string>
+    <string name="ler_arquivo">ler arquivo</string>
+    <string name="gerar_file">Não foi possivel gerar o arquivo!</string>
+    <string name="read_file">Não foi possivel ler o arquivo!</string>
 </resources>
