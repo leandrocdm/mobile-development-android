@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="digie_seu_usuario">Digie seu usuario</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="manter_conectado">Manter conectado!</string>
+    <string name="login">Login</string>
+    <string name="logout">logout</string>
+    <string name="login_invalido">Login invalido!</string>
+</resources>
